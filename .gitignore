@@ -1,0 +1,8 @@
+*.csproj
+TankOnline/Library/
+*.cache
+*.log
+*.json
+TankOnline/Assets/TextMesh Pro/
+TankOnline/Assets/Photon/
+*.wav
